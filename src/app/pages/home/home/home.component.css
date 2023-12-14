@@ -1,0 +1,414 @@
+.full_main_header>h4 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.page_header {
+    padding-top: 23px;
+    padding-bottom: 21px;
+}
+
+.user_l>ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
+
+.user_l>ul>li {
+    display: inline-block;
+}
+
+.user_l>ul>li>.u_box>img {
+    width: 18px;
+    height: 18px;
+    /* position: absolute; */
+    /* left: 0; */
+}
+
+.user_l {}
+
+.user_l>ul>li>.u_box {
+    position: relative;
+}
+
+.u_box.bl_1 {}
+
+li {}
+
+.u_box.bl_2 {
+    left: -5px;
+}
+
+.u_box.bl_3 {
+    left: -10px;
+}
+
+.u_box.bl_4 {
+    left: -15px;
+}
+
+.right_user_tool>h4 {
+    margin-bottom: 0;
+    color: #FFF;
+    text-align: right;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Poppins;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+}
+
+.card_top_user_bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section_cards {
+    border-radius: 20px;
+    border: 0.5px solid rgba(255, 255, 255, 0.20);
+    background: #14171A;
+    backdrop-filter: blur(5px);
+    padding: 15px;
+}
+
+.card_section_header>h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.card_section_header {
+    margin-top: 18px;
+    margin-bottom: 22px;
+}
+
+.left_sub_box {
+    width: 50px;
+    height: 77px;
+    flex-shrink: 0;
+    /* background: rgba(255, 255, 255, 0.40); */
+}
+
+.title>h4 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.col_1>h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+.col_1>h4 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.title>h4>span {
+    margin-left: 5px;
+}
+
+.middle_bottom {
+    display: flex;
+    align-items: center;
+}
+
+.col_1 {
+    margin-right: 10px;
+}
+
+.left_sub_box {
+    position: relative;
+    z-index: 999999;
+}
+
+.left_sub_box>img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.left_sub_box>h4 {
+    text-align: center;
+    position: relative;
+    color: #0B254D;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: 1;
+    letter-spacing: 1.32px;
+    opacity: 0.2;
+    margin-bottom: 0;
+}
+
+.left_sub_box>h4>span {
+    font-size: 34px;
+}
+
+.card_user_listing {
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    opacity: 1;
+    background: linear-gradient(90deg, #030604 0%, #0c2519 100%);
+}
+
+.left_sub_box>img.profile_picture {
+    left: unset !important;
+    right: -10px !important;
+    top: 18px !important;
+}
+
+.middle_box {
+    padding-left: 22px;
+}
+
+.middle_top {
+    margin-bottom: 5px;
+}
+
+.inner_right_mid_box>h3 {
+    color: #88FFC7;
+    text-align: right;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+.inner_right_mid_box>h4 {
+    color: #88FFC7;
+    text-align: right;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.card_user_listing {
+    justify-content: space-between;
+}
+
+.right_mid_box {
+    padding-right: 12px;
+}
+
+.middle_box {
+    width: 100%;
+}
+
+.c_mb {
+    margin-bottom: 10px;
+}
+
+.col_x_content>h4 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 5px;
+}
+
+.col_x_content>h5 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.cox_data_col {
+    display: flex;
+    align-items: center;
+}
+
+.col_x_content {
+    margin-left: 8px;
+}
+
+.bottom_rating_areas {
+    margin-top: 22px;
+}
+
+.in_wrap {
+    display: flex;
+    align-items: center;
+}
+
+.cox_data_col:last-child {
+    margin-left: 10px;
+}
+
+.in_wrap.rl {
+    justify-content: end;
+}
+
+.round_boxs {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.round_boxs>h4 {
+    color: #FF6F6F;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1;
+    margin-bottom: 0;
+}
+
+.round_boxs {
+    border: 1px solid #FF6F6F;
+    background: #261516;
+    border-radius: 100px;
+}
+
+.col_x_content.rl>h4 {
+    color: #FF6F6F !important;
+}
+
+.col_x_content.rl>h5 {
+    color: #FF6F6F !important;
+}
+
+.inner_right_mid_box.gl>h3 {
+    color: #FF6F6F !important;
+}
+
+.inner_right_mid_box.gl>h4 {
+    color: #FF6F6F !important;
+}
+
+.col_1>h4 {
+    opacity: 0.5;
+}
+
+.card_user_listing.c_mb.rd {
+    background: linear-gradient(90deg, #030604 0%, #261010 100%) !important;
+}
+
+.sub_mition_section>button {
+    border-radius: 13px;
+    border: 0.5px solid rgba(255, 255, 255, 0.20);
+    background: #303236;
+    line-height: 1;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    padding: 14px 45px;
+    outline: none;
+    width: 100%;
+}
+
+.sub_mition_section {
+    margin-top: 25px;
+}
+
+.section_cards {
+    margin-bottom: 10px;
+}
+
+.right_mid_box {
+    width: 120px;
+}
+
+.card_section_header>h3 {
+    opacity: 0.5;
+}
+
+.card_section_header.active_h>h3 {
+    opacity: 1;
+}
+
+.right_user_tool>h4 {
+    opacity: 0.5;
+}
+
+.col_x_content.op>h5 {
+    opacity: 0.5;
+}
+
+.full_main_header>h4 {
+    opacity: 0.5;
+}
+
+.blank_box>h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 8px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1px;
+    margin-bottom: 0;
+}
+
+.blank_box {
+    width: 19px;
+    height: 19px;
+    flex-shrink: 0;
+    background: #2B2E30;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    position: relative;
+    top: -1px;
+}
+
+.u_box.bl_4 {
+    top: 0;
+}
+
+.user_l>ul>li {
+    height: 16px;
+}
